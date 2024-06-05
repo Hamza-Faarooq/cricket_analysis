@@ -4,7 +4,7 @@ dynamically predicts the probability of winning a World Cup cricket
 match based on historical match data using linear regression models. 
 The project aims to provide insights into the potential outcomes of 
 upcoming matches and assist cricket enthusiasts in making informed 
-predictions.*
+predictions.* 
 
 ## Data Collection: 
 The project collects historical match data including 
